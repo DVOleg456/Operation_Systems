@@ -5,10 +5,13 @@
             "label": "build_windows",
             "type": "shell",
             "command": ".\\build.cmd",
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
+            "group": "build"
+        },
+        {
+            "label": "build_linux",
+            "type": "shell",
+            "command": "./build.sh",
+            "group": "build"
         }
     ]
 }
