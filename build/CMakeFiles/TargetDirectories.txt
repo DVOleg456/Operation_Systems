@@ -1,3 +1,0 @@
-C:/OS_Projects/build/CMakeFiles/hello_app.dir
-C:/OS_Projects/build/CMakeFiles/edit_cache.dir
-C:/OS_Projects/build/CMakeFiles/rebuild_cache.dir
